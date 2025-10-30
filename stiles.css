@@ -1,0 +1,31 @@
+body {
+    font-size: 16px;
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: aquamarine;
+    background: linear-gradient(to right, aquamarine, black);
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    border: solid 1px black;
+    color: white;
+    border-radius: 10px;
+    padding: 12px 48px;
+    margin: 50px 0 200px 0;
+}
+
+.title{
+    text-align: center;
+}
+
+.subtitle{
+margin-top: 50px;
+}
+
+.title{
+    margin-top: 50px;
+}
+
+
+
